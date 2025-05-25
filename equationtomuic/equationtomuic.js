@@ -16,7 +16,6 @@ function setup(){
     noStroke()
   getAudioContext().suspend();
   analyzer= new p5.Amplitude();
-}
   
 }
 
