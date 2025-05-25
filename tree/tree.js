@@ -6,7 +6,6 @@ function setup() {
   createCanvas(windowWidth, windowHeight);
   colorMode(HSB);
   angleMode(DEGREES);
-  text ('move the mouse from left to right', 2, 2)
 }
 
 function draw() {
