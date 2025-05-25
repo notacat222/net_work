@@ -16,8 +16,6 @@ function setup(){
     noStroke()
   getAudioContext().suspend();
   analyzer= new p5.Amplitude();
-  myButton=createButton('Click Me');
-  myButton.position(random(width),random(height));
 }
   
 }
