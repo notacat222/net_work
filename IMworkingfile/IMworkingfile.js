@@ -1,3 +1,5 @@
+//coded with promting help from chat GPT as well as https://www.youtube.com/watch?v=bPD8lL0hiLs
+
 let video;
 let poseNet;
 let poses = [];
