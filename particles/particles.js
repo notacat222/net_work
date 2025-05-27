@@ -6,7 +6,7 @@
  * This is an attempt to recreate that particle system using p5.js.
  * Inspired by Particle.js, contributed by Sagar Arora.
  
- ///edited by Hannah Ogaw
+ ///edited by Hannah Ogawa
  */
 
 
